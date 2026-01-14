@@ -1,0 +1,5 @@
+{
+  "name": "Imposter - The Social Deduction Game",
+  "description": "A multiplayer social deduction game where players describe a secret word to identify the imposter among them. Powered by Gemini for infinite replayability.",
+  "requestFramePermissions": []
+}
